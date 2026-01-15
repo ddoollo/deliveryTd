@@ -9,7 +9,7 @@
 [![Latest 2.8](https://img.shields.io/github/v/release/wisper_subscription/wisper_subscription?filter=v2.8*&label=latest%20maintenance%20release%20for%202.8)](https://github.com/wisper_subscription/wisper_subscription/releases?q=tag:v2.8%20draft:false)
 [![Latest 2.6](https://img.shields.io/github/v/release/wisper_subscription/wisper_subscription?filter=v2.6*&label=latest%20maintenance%20release%20for%202.6)](https://github.com/wisper_subscription/wisper_subscription/releases?q=tag:v2.6%20draft:false)
 
-# wisper_subscription
+# tabby
 
 <img src="https://redis.io/docs/interact/search-and-query/img/logo.svg" title="wisper_subscription's Logo" width="300">
 
